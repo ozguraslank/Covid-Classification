@@ -4,12 +4,13 @@
 During the pandemic, we have many difficulties with Covid-19. One of them is classification the chest x-ray images of suspect patients. When the doctors are tired or lost their focus, they have high probability to make wrong decision and give the wrong information to patient.
 So, i decided to code a artificial intelligence model to predict patients situation by looking to their chest x-ray images.
 
-<h4> <bold>Categories</bold> </h4> <br>
+<h4> **Categories** </h4> <br>
 In this project, we have 3 categories; Normal patient, Patient with Viral Pneumonia, and finally: Covid patient. <br>
+<br>
 <p float="left">
   <img src="https://github.com/ozguraslank/Covid-Classification/blob/main/Normal-17.png" width="200" />
   <img src="https://github.com/ozguraslank/Covid-Classification/blob/main/Viral%20Pneumonia-31.png" width="200" /> 
   <img src="https://github.com/ozguraslank/Covid-Classification/blob/main/COVID-19.png" width="200" />
 </p>
-example <t> </t> selam
+example
 
