@@ -1,5 +1,9 @@
-<h2 style ="text-align": center; "markdown="1"> Covid Classification Project With X-ray Images </h2>
+<h2 style ="text-align": center; "markdown="1"> Covid Classification Project With Chest x-ray Images </h2>
 
 <h3> Abstract </h3> <br>
-During pandemic, we had many difficulties about Covid-19. Classification the x-ray images of suspect people's become difficult sometimes, specially when the doctors are tired or lost their focus, they have high probability to make wrong decision and give the wrong information to patient.
+During the pandemic, we have many difficulties with Covid-19. One of them is classification the chest x-ray images of suspect patients. When the doctors are tired or lost their focus, they have high probability to make wrong decision and give the wrong information to patient.
+So, i decided to code a artificial intelligence model to predict patients situation by looking to their chest x-ray images.
+
+<h4> Categories </h4> <br>
+In this project, we have 3 categories; Normal patient, Patient with Viral Pneumonia, and finally: Covid patient.
 
