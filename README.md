@@ -1,2 +1,1 @@
-# Covid-Classification
-Covid classification project with x-ray pictures
+<h2>Covid Classification with X-RAY Pictures</h2>
