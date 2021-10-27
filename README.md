@@ -8,9 +8,9 @@ So, i decided to code a artificial intelligence model to predict patients situat
 In this project, we have 3 categories; Normal patient, Patient with Viral Pneumonia, and finally: Covid patient. <br>
 <br>
 <p float="left">
-  <img src="https://github.com/ozguraslank/Covid-Classification/blob/main/Normal-17.png" width="200" /> &nbsp &nbsp &nbsp
-  <img src="https://github.com/ozguraslank/Covid-Classification/blob/main/Viral%20Pneumonia-31.png" width="200" />  &nbsp &nbsp &nbsp
-  <img src="https://github.com/ozguraslank/Covid-Classification/blob/main/COVID-19.png" width="200" /> &nbsp &nbsp &nbsp
+  <img src="https://github.com/ozguraslank/Covid-Classification/blob/main/Normal-17.png" width="200" /> &nbsp &nbsp &nbsp &nbsp &nbsp
+  <img src="https://github.com/ozguraslank/Covid-Classification/blob/main/Viral%20Pneumonia-31.png" width="200" />  &nbsp &nbsp &nbsp &nbsp &nbsp
+  <img src="https://github.com/ozguraslank/Covid-Classification/blob/main/COVID-19.png" width="200" /> &nbsp &nbsp &nbsp &nbsp &nbsp
 </p>
-
+Normal &nbsp &nbsp &nbsp Viral Pneumonia &nbsp &nbsp &nbsp Covid
 
