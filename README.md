@@ -5,5 +5,8 @@ During the pandemic, we have many difficulties with Covid-19. One of them is cla
 So, i decided to code a artificial intelligence model to predict patients situation by looking to their chest x-ray images.
 
 <h4> <bold>Categories</bold> </h4> <br>
-In this project, we have 3 categories; Normal patient, Patient with Viral Pneumonia, and finally: Covid patient.
+In this project, we have 3 categories; Normal patient, Patient with Viral Pneumonia, and finally: Covid patient. <br>
+Normal Patient: <br>
+<img src="https://github.com/ozguraslank/Covid-Classification/blob/main/Normal-17.png" <br>
+example
 
