@@ -12,5 +12,5 @@ In this project, we have 3 categories; Normal patient, Patient with Viral Pneumo
   <img src="https://github.com/ozguraslank/Covid-Classification/blob/main/Viral%20Pneumonia-31.png" width="200" />  &nbsp &nbsp &nbsp &nbsp &nbsp
   <img src="https://github.com/ozguraslank/Covid-Classification/blob/main/COVID-19.png" width="200" /> &nbsp &nbsp &nbsp &nbsp &nbsp
 </p>
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Normal &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Viral Pneumonia &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  Covid
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Normal &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Viral Pneumonia &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  Covid
 
