@@ -9,8 +9,7 @@ In this project, we have 3 categories; Normal patient, Patient with Viral Pneumo
 <p float="left">
   <img src="https://github.com/ozguraslank/Covid-Classification/blob/main/Normal-17.png" width="200" />
   <img src="https://github.com/ozguraslank/Covid-Classification/blob/main/Viral%20Pneumonia-31.png" width="200" /> 
-  <img src="https://github.com/ozguraslank/Covid-Classification/blob/main/Viral%20Pneumonia-31.png" width="200" />
+  <img src="https://github.com/ozguraslank/Covid-Classification/blob/main/COVID-19.png" width="200" />
 </p>
-<img src="https://github.com/ozguraslank/Covid-Classification/blob/main/Normal-17.png" width ="200" <br>
 example
 
