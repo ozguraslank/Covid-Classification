@@ -7,6 +7,6 @@ So, i decided to code a artificial intelligence model to predict patients situat
 <h4> <bold>Categories</bold> </h4> <br>
 In this project, we have 3 categories; Normal patient, Patient with Viral Pneumonia, and finally: Covid patient. <br>
 Normal Patient: <br>
-<img src="https://github.com/ozguraslank/Covid-Classification/blob/main/Normal-17.png width ="100" <br>
+<img src="https://github.com/ozguraslank/Covid-Classification/blob/main/Normal-17.png" width ="100" <br>
 example
 
